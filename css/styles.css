@@ -1,4 +1,8 @@
 /* General Reset */
+*{
+	padding: 0px;
+	margin: 0px:
+}
 @font-face {
 	font-family: 'gotham-black';
 	src: url('../fonts/gotham-black.eot');
